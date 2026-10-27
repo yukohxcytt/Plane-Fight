@@ -1,0 +1,22 @@
+# 编译产物
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+
+# Visual Studio 缓存
+.vs/
+*.suo
+*.user
+*.db
+
+# 构建日志
+*.log
+*.tlog
+
+# 系统垃圾
+Thumbs.db
+.DS_Store

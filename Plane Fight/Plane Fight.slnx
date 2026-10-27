@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Plane Fight/Plane Fight.vcxproj" Id="e6aa0618-2838-4a58-8685-998552459191" />
+</Solution>
